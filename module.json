@@ -2,7 +2,7 @@
   "name": "hm-adv-bb",
   "title": "The Bastard Bailiff",
   "description": "The bastard half brother of the Earl of Neph has been declared outlaw. Why, and who will find him, and claim the substantial reward?",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8",
   "bugs": "https://github.com/toastygm/hm-adv-bb/issues",
@@ -46,7 +46,7 @@
   ],
   "url": "https://github.com/toastygm/hm-adv-bb/",
   "manifest": "https://raw.githubusercontent.com/toastygm/hm-adv-bb/master/module.json",
-  "download": "https://github.com/toastygm/hm-adv-bb/archive/v1.0.1.zip",
+  "download": "https://github.com/toastygm/hm-adv-bb/archive/v1.0.0.zip",
   "flags": {
     "allowBugReporter": true
   }
