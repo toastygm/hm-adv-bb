@@ -1,5 +1,5 @@
 (() => {
-  const adventureName = 'The Bastard Bailiff';
+  const adventureName = 'Bastard Bailiff';
   const moduleName = 'hm-adv-bb';
 
   /**
