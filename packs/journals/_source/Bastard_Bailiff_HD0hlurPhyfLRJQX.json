@@ -1,0 +1,357 @@
+{
+  "name": "Bastard Bailiff",
+  "pages": [
+    {
+      "name": "Afterward",
+      "type": "text",
+      "text": {
+        "content": "<div>\n<p>The PCs do not have to travel all the way back to Gardiren if the GM doesn’t want them to. Simply presenting the fugitive and the warrant at any of the Earl’s far flung vassal manors can be a short cut to the reward (though the sum will be decreased by the cost of returning the prisoner(s) to Gardiren). GMs can use this device to draw the PCs great distances to the site of the next chapter of his current campaign. If the GM wishes, the Earl can have representatives in any town convenient to the capture of the outlaws (even Thay).</p>\n<p>This adventure also introduces the PCs to the dangerous, unpredictable but sometimes lucrative world of bounty hunting. A successful team could earn a letter of recommendation from the Earl and introductions to other nobles with similar “problems”.</p>\n</div>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "7DP2rMph0iRxmNip",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HD0hlurPhyfLRJQX.7DP2rMph0iRxmNip"
+    },
+    {
+      "name": "Background",
+      "type": "text",
+      "text": {
+        "content": "<h2>History</h2>\n<p>The Earl’s father was a man of lusty appetites, even in his later years. He fathered several bastards including Akitt Llack. Akitt was acknowledged and lived with his mother in one of the Earl’s townhouses until the Earl died when he was twelve. His father’s widow hated him and ordered him and his mother immediately expelled from the only home he had ever known.</p>\n<p>On the death of the Earl’s widow a decade later, Akitt was brought back to court. With his mother dead, Earl Curo wanted to ensure his half-brother was taken care of, be he baseborn or no. However, the life of the timberwright’s apprentice had ill-prepared Akitt for the life at court and he soon made a fool of himself.</p>\n<p>Anxious to rid himself of an embarrassment, the Earl made Akitt bailiff of a rich manor on the edge of his domain. Thinking he was being quite magnanimous, Curo sent Akitt off to the wilderness without recognizing the humiliation, rage and hate boiling in his veins.</p>\n<h2>Details</h2>\n<p>Akitt arrived at Charmic Manor five years ago. He took over a rich, successful manor which had been well tended by conscientious bailiffs for forty years. Within weeks he began to strip it bare. He sold off valuable equipment and furnishings; he allowed his cousin to illegally cut and sell the King’s timber; and he drove the peasants mercilessly, squeezing every penny out of them while not spending a farthing on manor upkeep. Using a pair of ruthless mercenaries and a few cottar lackeys, he held the villagers prisoner in their own homes. For years, the people prayed for the Earl to visit and see what Akitt had done. The Earl never came.</p>\n<p>What the peasants didn’t know was that Akitt made a point of personally delivering his annual feudal payment to Gardiren. He would visit the Earl and enjoy a pleasant dinner and smoothly lie to his half-brother, thanking him for granting him the position of bailiff and explaining how country life had helped him grow up and become more responsible. The Earl’s Steward had no reason to check Akitt, especially since the annual revenues from the manor remained the same as under previous bailiffs.</p>\n<p>Finally, Charmic’s Peonian priest could take no more and slipped away in the night to take word to the Earl. After walking all day, the priest arrived at the Earl’s castle in the middle of a feast. He convinced the guard to call the Steward out of the hall and informed him what had happened. When the Steward relayed the news to the Earl he summoned the village priest before him, questioning him in detail. Then the Earl summoned the local Peonian priest from Gardiren to confirm the man was indeed from Charmic. Determined to convince the Earl, the village priest fell to his knees and swore a holy vow on the sacred relic of Peoni. Convinced by the man’s honesty, Earl Curo was furious and declared “the ungrateful wretch” outlaw. The Earl charged him with Abuse of Trust and Larceny and he was tried and found guilty “in absentia.” The Earl’s command to his men was clear, “Bring me Akitt. Alive if possible, dead, just as good.”</p>\n<p>As he hurried through the town of Gardiren, the village priest was recognized by one of Akitt’s “business partners”, Naviel, who realized they would all hang when the Earl found out what was happening. Naviel rode to Charmic to warn Akitt while the Earl was busy interrogating the priest. In a flurry of activity, the bailiff, his halfbrother, two mercenary guards and Naviel rode out of Charmic in the middle of the night, only hours ahead of the Earl’s guards.</p>\n<p>The manor is now in the temporary guardianship of Sir Peart Tanush, one of the Steward’s assistants, while the hue and cry has gone out for Akitt’s head. Although horses were heard, the villagers were too afraid to watch Akitt leave and no one knows which way he went.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "eEvNHKCIvSkUWSUY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HD0hlurPhyfLRJQX.eEvNHKCIvSkUWSUY"
+    },
+    {
+      "name": "Clues and Rumours",
+      "type": "text",
+      "text": {
+        "content": "<h2>Crucial Rumour</h2>\n<p>Although the GM may allow the PCs several false starts, the vital piece of information they must uncover in Charmic is that Akitt has most likely fled to Tashal. There are two ways they can find this out.</p>\n<ol>\n<li>On one trip, he took one of his lackeys, a cottar (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.wrstErZ7IdTOgcNU]{[32] Cottar-Beadle (Kloril of Clan Ibin)}) well known to all the other villagers as Akitt’s lapdog. On his return, the cottar bragged that they were welcomed like kings at the Timberwright’s Guild Hall. Akitt deposited money with several usurers in the city.</li>\n<li>As they hurriedly packed, the cook overheard Lynd tell Akitt that they needed to loose themselves in the big city until they could find a caravan out of the realm.</li>\n</ol>\n<h2>Other Rumours at Charmic Manor</h2>\n<ol>\n<li>Akitt left the village by the north road. The villein (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.xn5csoCgj1USaq8F]{[2] Villein (Eld of Clan Kralis)}) thinks that he has gone to Tashal via the main road through Bidow. GM Note: The villein is correct; they did leave by the north road.</li>\n<li>Akitt left the village by the east road. The cottar (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.IM0gHuTm4ysE91MC]{[31] Cottar (Arath of Clan Narad)}) believes he has taken the trail east to Naniom Bridge and south through Getha to Kiban. GM Note: This is one of Akitt’s lackeys who is trying to ingratiate himself with the new regime. He didn’t see anything.</li>\n<li>One of the mercenaries once boasted to the stable boy about having crossed Naniom Bridge and following the trail south to Nenda and Minarsas, though the boy has no idea where these places are. GM Note: Possible but unlikely. A search of the manor will determine they did not take more than a few days’ provisions with them.</li>\n<li>A cottar (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.8bRTPB2XJhjkGQYF]{[1] Cottar (Girn of Clan Valada)}) who worked for Lynd thinks they went cross country to Ascur Abbey and then on to Tashal. Lynd seemed to know his way through the woods and often mentioned the abbey was only five leagues away over a couple of ridges. GM Note: A quick search of the road leading south into the forest will make it very obvious that five men on horseback and three mules could not have passed this way.</li>\n<li>One of the quarrymen out for a liaison with his sweetheart saw men riding north. He figures they slipped through Gardiren in the night and headed north on Noron’s Way. GM Note: The quarryman did see Akitt and his men, but Akitt is unlikely to have risked heading right though Gardiren. The Earl’s guards would have seen him.</li>\n</ol>\n<h2>Rumours in Tashal</h2>\n<ol>\n<li>One of the guards at the Timberwright’s Guild Hall says he probably headed west at Heru and travelled north-west past Olokand on the Fur Road. There are plenty of places to hide in Orbaal. GM Note: The guard is Orbaalese. As far as anyone knows, neither Akitt nor any of his men have ever travelled this way.</li>\n<li>Akitt and his men stabled their horses at the Tower Inn across from the Timberwright’s Guild. One of the stable boys remembers they left in the company of several pilgrims headed south along the Genin Trail towards Chybisa. GM Note: This is correct. If asked the stable boy can give a description of their new clothes.</li>\n<li>A caravan left for Tharda via the Salt Route the day after Akitt fled Charmic Manor. GM Note: There was not enough time for Akitt to reach Tashal and join this caravan. A few bribes around the Timberwright’s Guild Hall will confirm he was seen here the day after the caravan left.</li>\n<li>A group of Khuzan left Tashal yesterday headed west on the Silver Way towards Azadmere. They were accompanied by many men with horses and mules. One particularly wealth man travelled with them. He was accompanied by two servants and two guards. GM Note: If the PCs ask around, someone will be able to tell them, the man was a well known merchant who frequently deals with the Khuzan.</li>\n</ol>\n<h2>Rumours on the Genin Trail</h2>\n<ol>\n<li>The sisters at Erune Nunnery hosted the pilgrim group a day or two before (depending on how close the PCs are). They remember the stocky man in maroon clothes and his servant with the shocking blue eyes. GM Note: The sisters are correct, this is the group.</li>\n<li>The gate warden thinks the pilgrims will next stop at Wylain Chapterhouse because they have two Meken of the Lady of Paladins with them. GM Note: This is wrong; the pilgrims will make for Ledyne Abbey to pray at the Bishop’s temple.</li>\n</ol>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "yK5xYX6hCmAeaJMc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 812500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HD0hlurPhyfLRJQX.yK5xYX6hCmAeaJMc"
+    },
+    {
+      "name": "Credits",
+      "type": "text",
+      "text": {
+        "content": "<p>This module is made possible by the hard work of HârnWorld fans, and is provided at no cost. This work is an adaptation of the adventure <a href=\"https://www.lythia.com/adventures/bastard-bailiff/\">The Bastard Bailiff</a> available at the HârnWorld fan site <a href=\"https://www.lythia.com/\">Lythia.com</a>.</p>\n<p> </p>\n<p><strong>Writer: </strong>Kerry Mould</p>\n<p><strong>Converted to Foundry VTT: </strong>Tom Rodriguez</p>\n<p>This module is \"<a href=\"https://www.lythia.com/about/publishing-fan-written-material/\">Fanon</a>\", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "WVIv1Lqgiv95fDbj",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 150000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HD0hlurPhyfLRJQX.WVIv1Lqgiv95fDbj"
+    },
+    {
+      "name": "Options for an Expanded Adventure",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Option 1: </strong>Upon being captured, Akitt bargains for his life, claiming that the majority of his stolen money is buried in three large treasure chests just south of Charmic Manor in the hills. There is no map and only Akitt knows the exact location. He agrees to lead the PCs to the treasure if they let him go alive. There are no treasure chests. The rest of Akitt’s money is in the form of bearer promissory notes sewn into the lining of his leather jerkin. Akitt will try and escape from the PCs en route to Charmic Manor.</p>\n<p><strong>Option 2: </strong>If Akitt is successful in bargaining for his life, he turns over several bearer promissory notes to the PCs and then flees. When the PCs try and cash the notes, they find out they are poor quality forgeries. Now the PCs are not just hunting a felon, but someone who has cheated them personally. Akitt has made good use of his lead and has already well on his way to Thay. He has cashed one of the real notes and hired four skilled mercenaries at the nearest town. They have two horses each and are riding them hard down the Genin Trail and maybe already in Chybisa already.</p>\n<p><strong>Option 3:</strong> By the time the PCs catch up to Akitt, he has already been captured by smarter or luckier bounty hunters. Now the PCs are faced with losing their reward or stealing him out from under the competition. The competition consists of a very similar party to the PCs. They have tied Akitt to a tree in the centre of their camp and are taking turns on sentry duty. They plan to head north to Gardiren the morning after the PCs find them. They also bear warrants signed by the Steward of the Earl and killing the opposing bounty hunters could have serious legal ramifications for the PCs.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "4fe4NO7xadIhQip9",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1150000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HD0hlurPhyfLRJQX.4fe4NO7xadIhQip9"
+    },
+    {
+      "name": "PC’s Motivation and Reward",
+      "type": "text",
+      "text": {
+        "content": "<p>Simple greed is the easiest motivation. The Earl is offering a substantial reward for the head of his half-brother (a minimum of £5 is suggested, though the GM can scale this to match his campaign). The Earl will pay the party on presentation of Akitt (alive) or his head. Lynd, Naviel and the two mercenaries are worth only a small amount (£1 each) as they are only accessories.</p>\n<p>If the PCs are already in the service of the Earl, then they may be dispatched after the traitor. Feudal duty is a simple stick the GM can use to send the PCs on a merry goose chase. The recently vacated position of bailiff of Charmic Manor could be a powerful carrot for one of the Earl’s retinue, especially a poor hedge knight.</p>\n<p>If the PCs are not already in the service of the Earl, they may see this as an opportunity to seek his favour. Besides paying a healthy reward, the Earl will look very favourably on a group that can act quickly and decisively on his behalf. As above, if the PC group includes a knight, the Earl might even consider granting the manor to the knight in lieu of a cash reward. A skilful negotiator might even win relief from feudal obligation for a few years while the manor is restored to order. This could lead to a whole new adventure rebuilding the manor, restoring the villagers faith and protecting the manor from wolves (on four legs or two).</p>\n<p>Another option open to the GM is revenge. If one of the PCs is from the afflicted village, word of abuse of a loved one may spur them to action. The rape of a mother or sister or the theft of family land is sure to send the PCs after Akitt for revenge with a nice profit thrown in for good measure.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "czYzac3OE5sHMMMu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 806250,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HD0hlurPhyfLRJQX.czYzac3OE5sHMMMu"
+    },
+    {
+      "name": "Patron",
+      "type": "text",
+      "text": {
+        "content": "<p>Earl Curo is a corpulent libertine who enjoys the pleasures of his table, but is none the less a competent intriguer. No matter his politics, his dispute with Akitt is personal. He did not want to send his half-brother away when his father died, but his mother insisted and Curo has regretted it ever since. He really felt that he was doing Akitt a favour when he brought him back to his court five years ago, but it soon became apparent that life as a timberwright’s apprentice had ill prepared him for the gossip and intrigue of court life. Curo hoped to spare his halfbrother from torment by setting him up in a very profitable little manor where he could live comfortably, comfortably out of sight. When word reached Earl Curo of the wanton rape and loot of Charmic Manor, he was furious. His anger was genuine and his vengeance swift, but legal. As Lord, he has power of life and death over his subjects and is well within his authority to declare Akitt wolfs head.</p>\n<p>The relationship between the PCs and the Earl can vary widely. If they have already worked for the Earl or come with a letter of recommendation, he may commission them directly. If they are strangers, this may be their chance to ingratiate themselves with a powerful new patron. Whatever their relationship, in the matter of Akitt, the Earl will be completely honest and trustworthy.</p>\n<h2>Warrant</h2>\n<p>If the PCs think to ask, the Earl’s Steward is willing to draft a warrant deputizing the PCs as agents of the Earl charged with arresting Akitt, Lynd and any accomplices. Although it has the force of law in the Earl’s lands, it may be less valuable outside of his territory. However, it would be helpful in explaining why the PCs have five men tied up and are transporting them back to Gardiren. If the PCs kill Akitt and/or his men, the warrant will offer some protection from a charge of murder, though they may spend a few days in the dungeon until the validity of the warrant can be confirmed.</p>\n<p>In addition to making the PCs legal bounty hunters, the warrant can be used to seek hospitality from the manors of the Earl’s vassals. PCs may also enlist the Earl’s vassal’s help in capturing Akitt, though they would expect to share the reward for their trouble. PCs that remain for the rest of the feast will see one or more other groups requesting warrants from the Steward. There is at least one other group actively searching for the fugitives and the game of concealing clues from their opponents can add an additional level of complexity to the chase if the GM wishes to play up this factor.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "40q24kt6TXSfS3FD",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 825000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HD0hlurPhyfLRJQX.40q24kt6TXSfS3FD"
+    },
+    {
+      "name": "Setting",
+      "type": "text",
+      "text": {
+        "content": "<p>Beginning at Charmic Manor, Nephshire in the Kingdom of Kaldor, the trail of the reneged bailiff leads to the city of Tashal and from there to the Genin Trail. The GM may use this pursuit to lead PCs towards other adventures or have them end up back where they started.</p>\n<p>Alternately, the GM may begin the adventure at any small country manor, leading the PCs to a nearby major town and from there on a merry chase though back roads and down trade routes. The adventure is easily adapted to any manor and any great lord (Earl, Baron or Bishop)</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "8CUWWUcfWUsko28K",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HD0hlurPhyfLRJQX.8CUWWUcfWUsko28K"
+    },
+    {
+      "name": "The Truth",
+      "type": "text",
+      "text": {
+        "content": "<p>Akitt, accompanied by his cousin Lynd, his two mercenaries and Naviel (his business partner), fled in the middle of the night north to Erathald Manor before turning west cross country past Emyln and Tirachane Manors. The skirted Bidow and were past Urveve Abbey before sun up. The almost killed their horses doing it and were forced to walk their animals though most of the next day.</p>\n<p>They spend the following night huddled in a cold camp off the road. The next morning they arrived in Tashal ahead of any news of Akitt’s being declared outlaw. They were warmly welcomed at the Timberwright’s Guild Hall. Akitt spent the day gathering up his ill-gotten wealth from usurers and investments around the city. He converted much of it into promissory notes drawn on Thay usurers, while keeping £8 in silver pennies in an iron bound chest and £2 in gold coins in his waist pouch. Lynd arranged passage out of the city. Naviel purchased new clothes, arranged for fake letters of introduction and purchased additional weapons and armour.</p>\n<p>Akitt assumed the identity of Letos, a pious Laranian on his way to Thay to visit the temple of the Primate. He is accompanied by his two servants (Lynd and Naviel) and two bodyguards. The five men joined a group of wealthy pilgrims travelling south on the Genin Trail by horseback. The men have bought additional mules to carry food and provisions for the trip. The pilgrims left the next day (two days after Akitt fled Charmic Manor). They are travelling on the main road. Akitt is quite concerned because he feels they are travelling too slowly, but his cousin Lynd has convinced him that five men travelling quickly with heavily laden pack mules would attract even more attention. Naviel has also urged caution because he fears travelling the Genin Trail without a large party for protection.</p>\n<p>The distance Akitt and his men have managed to travel is up to the GM. Also, if the GM wishes, they can have departed on one of the other routes suggested in the rumours above. Lightly burdened PCs should be able to catch up with the group even if they are travelling on foot, because although the wealthy members of the pilgrim party are on horseback, most of their servants are on foot. The pilgrims only travel one watch per day.</p>\n<p>The pilgrim group totals twenty-three, including Akitt and his men, a knight from Balimshire (with his wife and six servants), a Laranian priest from Abriel (with two lay brothers), two Meken (common soldiers) of the Order of the Lady of Paladins (travelling with the group as far as Nebulan Chapter House) and a merchant (with four servants and a wagon) who has also joined the group for protection. The GM may wish to develop this group further if they are involved in the capture of Akitt by the PCs. Although very vague about his past and where he comes from, Akitt has turned on all his charm and ingratiated himself with the group. Unless convinced otherwise, the other pilgrims will help protect Akitt from attack.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "uWi7SAt48Xgn7FeV",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 875000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HD0hlurPhyfLRJQX.uWi7SAt48Xgn7FeV"
+    },
+    {
+      "name": "The Villain",
+      "type": "text",
+      "text": {
+        "content": "<h2>Rationale</h2>\n<p>Akitt Llack began life in the comfortable world of privilege. The son (abet bastard) of the Earl, he had the best clothes, best food and a house he shared with his mother close to the castle. He learned to read and write and expected to become a page. With his father’s death, he and his mother became persona non gratis, especially with his father’s widow who hated his mother and saw Akitt as the embodiment of the infidelity of her husband. They were thrown out of their house in the middle of the night, stripped of everything but the underwear they were wearing. In shock, they were forced to beg for shelter from Akitt’s grandfather who had disowned his daughter years before for her wanton ways.</p>\n<p>Akitt spent the next decade as little more than a serf. He was beaten and worked mercilessly by his grandfather, a timberwright, and then forced to watch his mother beg his grandfather not to throw them out ever time he got drunk. Akitt grew up a bitter and hateful young man.</p>\n<h2>Motives and Goals</h2>\n<p>When the Earl invited Akitt back to court, the young man saw it as his opportunity to get revenge on the nobles who ruined his life and taken the money he felt he was owed. Unfortunately, his lack of martial training or courtly graces quickly made him the butt of every joke in the Earl’s court, making him even angrier. When his half-brother offered him the position of bailiff of some godforsaken dung-heap in the country, he took it, feigning gratitude with the full intention of raping it for every penny he could before leaving Kaldor forever.</p>\n<p>The manor is now in the temporary guardianship of Sir Peart Tanush, one of the Steward’s assistants, while the hue and cry has gone out for Akitt’s head. Although horses were heard, the villagers were too afraid to watch Akitt leave and no one knows which way he went.</p>\n<p>Akitt’s succeeded in stealing a large sum from the Earl (and King, in the form of timber). He plans to escape from Kaldor and make his way to another kingdom. There, he will buy himself a townhouse and live the life of luxury he feels he has earned.</p>\n<h2>Recent activities</h2>\n<p>Every few months, accompanied by Naviel, representatives of the timberwright’s guild would visit to buy timber. In the last two months, Akitt has made several trips to Tashal. Akitt avoided Gardiren except for his annual feudal payment to his half-brother.</p>\n<h2>Relationships</h2>\n<p>Akitt’s mother and grandfather are both dead. His only living family is an uncle, aunt and two cousins. One of the cousins, Lynd, has been living with him since he took over the manor and has forced the villagers to build him a large house and outbuildings in the centre of the village. Lynd and Akitt are thick as thieves, constantly plotting together. The villager’s believe Akitt’s uncle is also a timberwright and part of the scam. They have no idea where he lives, but he is not in Gardiren.</p>\n<p>Akitt has two mercenaries who have served him for the last five years. They are completely amoral bullies who will obey Akitt as long as he pays them. For mercenaries, they are relatively trustworthy and loyal, meaning they won’t murder him in his sleep, but they will not die for him and if the odds are against them they will flee, taking whatever they can get their hands on.</p>\n<h2>Guildsmen</h2>\n<p>Akitt grandfather died after he was made bailiff of Charmic. A journeyman timberwright, Akitt as- sumed his grandfather’s position as a master; he was defi- nitely not qualified, but well placed bribes ensured he was confirmed. He bears the credentials of a master timber- wright and as such has access to the guild’s extensive network of guild halls and members. Lynd is a journey- man though he is actually more skilled than Akitt. If he has reason to suspect an attack, Akitt is not afraid to make up a story and seek the assistance of his fellow guildsmen. Since they often work deep in the forest, timberwrights arm themselves, their journeymen and apprentices.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "6zKpXtPo6wYGmy99",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 850000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HD0hlurPhyfLRJQX.6zKpXtPo6wYGmy99"
+    },
+    {
+      "name": "Timing",
+      "type": "text",
+      "text": {
+        "content": "<p>The timing of the pursuit is vital to the PCs being able to catch Akitt and his men. It is up to the GM to adjust the pace to ensure he is not caught too quickly but also to keep the excitement up and not let the pursuit to drag out and last too long.</p>\n<p>The most logical action upon accepting the mission is for the PCs to go to Charmic. That is where Akitt was last seen and the manor may hold clues to where he has gone. Unless the PCs race to the manor down unfamiliar roads in the middle of the night (a bad idea), the Earl’s guards will arrive before them (they will depart at first light). The PCs can search the manor and interview all potential wit- nesses in about a day. Their next destination will depend on what they uncover. This is also an opportunity for the GM to introduce the possibility that a grateful Earl might be looking for a new bailiff to install at Charmic Manor.</p>\n<p>Upon accepting the mission, the PCs might decide to act immediately and head down the Tashal road rather than checking out the manor as suggested above. In that event, it is suggested that the PCs be allowed to pass Akitt and his men camped out in the woods along side the road. Then, rather than openly entering the city, Akitt, Lynd and Naveil will enter the city separately in disguise to complete their various tasks (listed under The Truth below). This can lead to a cat and mouse game through the streets of Tashal. The two mercenaries wait with the horses and mules outside the city. The GM may allow the PCs to catch Lynd or Naviel in order to ratchet up the tension.</p>\n<p>If the PCs are slow to act or spend too much time chasing down false leads at Charmic Manor, it is suggested that Akitt have problems collecting his money or finding a group travelling the direction he wants to go. This should result in additional rumours and clues being left as Lynd searches the inns for people travelling south. Barkeeps and innkeepers will remember this distinctive man, thus speeding up the process of the PCs discovering the bailiff and his men have left on the Genin Trail. A broken wagon wheel could also delay the pilgrims.</p>\n<p>Finally, the location the PCs catch up with the fugitives depends on where the GM wants to stage the final confrontation. Eliten Manor has already been mapped and is on the route and may be easier for a rushed GM rather than having to map Erone Nunnery, Wylain Chapter House or Ledyne Abbey. Alternately, a final confrontation staged in or near Tashal might be more enjoyable for a group of urban adventurers.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "2Jea5R9OFTLxXu3W",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1125000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HD0hlurPhyfLRJQX.2Jea5R9OFTLxXu3W"
+    },
+    {
+      "name": "Overview",
+      "type": "text",
+      "text": {
+        "content": "<p><span style=\"font-size:12pt\"><strong>Difficulty: Low to Moderate</strong></span></p>\n<p>The Bastard Baliff is a \"Adventure Module\"; it describes an adventure starting in Norther Kaldor (Gardiren and Charmic Manor), then proceeding south to Tashal and possibly down the Genin trail to Thay.</p>\n<p>This mini-adventure is suitable for use in any campaign as a fill-in between larger adventures, a side-track to generate some quick money or as an introduction to the service of Earl Curo of Gardiren. It is set in Kaldor, but can be easily adapted to suit any campaign location. It may be played at any time of the year.</p>\n<p>This module is based on the \"<a href=\"https://www.lythia.com/adventures/bastard-bailiff/\">The Bastard Bailiff</a>\" fanon; please see @UUID[JournalEntry.HD0hlurPhyfLRJQX.JournalEntryPage.WVIv1Lqgiv95fDbj]{Credits} for more information.</p>\n<p> </p>\n<h2>Using this module with Non-HârnMaster systems</h2>\n<p>This module, with the exception of the Actors, is system-agnostic.  See the section below on NPCs for details about the villans who are provided as HârnMaster Actors; these details may be used to generate appropriate statistics for your game system.</p>\n<p> </p>\n<h2>Lead-Ins</h2>\n<p><strong>Liegemen: </strong>Word arrives from Earl Curo that his bastard, half-brother Akitt Llack is declared outlaw and all loyal liegemen are to be on the lookout for him.</p>\n<p><strong>Bounty Hunters: </strong>The town crier reads news that Earl Curo has offered a reward for any man who will bring him Akitt Llack, dead or alive.</p>\n<p><strong>Dinner Guests: </strong>A fortunate encounter results in an invitation to dinner at Earl Curo’s hall. During dinner, a messenger arrives. Upon hearing of his bastard halfbrother’s betrayal, the Earl offers a bounty to any man who will track down the rogue who has betrayed him.</p>\n<p> </p>\n<h2>Setting</h2>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813\">Beginning at Charmic Manor, Nephshire in the Kingdom of Kaldor, the trail of the reneged bailiff leads to the city of Tashal and from there to the Genin Trail. The GM may use this pursuit to lead PCs towards other adventures or have them end up back where they started.</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813\">Alternately, the GM may begin the adventure at any small country manor, leading the PCs to a nearby major town and from there on a merry chase though back roads and down trade routes. The adventure is easily adapted to any manor and any great lord (Earl, Baron or Bishop).</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813\"> </p>\n<h2 style=\"box-sizing:border-box;user-select:text;color:#191813\">Objective</h2>\n<p>The object of this adventure is quite straightforward, pursuit Akitt with all possible speed, following a chain of rumours and clues until he is caught. Once the PCs find Akitt they must decide what they are going to do. If they kill him, they need to take proof (preferably his head) back to the Earl. If they capture him, it could be a whole new adventure getting him back to Gardiren.</p>\n<p>If captured, Akitt will try and buy his freedom. It is up to the GM how much money he has skimmed from Charmic over the last five years. He has also been brokering timber and investing in enterprises in Tashal during that time. This may have increased or sharply decreased his fortunes at the GMs discretion. Upon return to Gardiren, Akitt will be tried and hung the same day.</p>\n<p> </p>\n<h2>Adventure Information</h2>\n<ul>\n<li>@UUID[JournalEntry.HD0hlurPhyfLRJQX.JournalEntryPage.eEvNHKCIvSkUWSUY]{Background}</li>\n<li>@UUID[JournalEntry.HD0hlurPhyfLRJQX.JournalEntryPage.6zKpXtPo6wYGmy99]{The Villain}</li>\n<li>@UUID[JournalEntry.HD0hlurPhyfLRJQX.JournalEntryPage.2Jea5R9OFTLxXu3W]{Timing}</li>\n<li>@UUID[JournalEntry.HD0hlurPhyfLRJQX.JournalEntryPage.yK5xYX6hCmAeaJMc]{Clues and Rumours}</li>\n<li>@UUID[JournalEntry.HD0hlurPhyfLRJQX.JournalEntryPage.uWi7SAt48Xgn7FeV]{The Truth}</li>\n<li>@UUID[JournalEntry.HD0hlurPhyfLRJQX.JournalEntryPage.40q24kt6TXSfS3FD]{Patron}</li>\n<li>@UUID[JournalEntry.HD0hlurPhyfLRJQX.JournalEntryPage.4fe4NO7xadIhQip9]{Options for an Expanded Adventure}</li>\n<li>@UUID[JournalEntry.HD0hlurPhyfLRJQX.JournalEntryPage.czYzac3OE5sHMMMu]{PC’s Motivation and Reward}</li>\n<li>@UUID[JournalEntry.HD0hlurPhyfLRJQX.JournalEntryPage.7DP2rMph0iRxmNip]{Afterward}</li>\n</ul>\n<p> </p>\n<h2>NPCs</h2>\n<p>The main villain and his cohort are detailed here.  Journal entries are provided for those using systems other than HârnMaster.</p>\n<table style=\"width:99.1477%;height:51px\" border=\"1\">\n<tbody>\n<tr style=\"height:17px\">\n<td style=\"width:16.2003%;height:17px\">Name</td>\n<td style=\"width:47.063%;height:17px\">HârnMaster Actor</td>\n<td style=\"width:35.8771%;height:17px\">Journal Entry</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:16.2003%;height:17px\">Akitt of Llack</td>\n<td style=\"width:47.063%;height:17px\">@UUID[Actor.P4I0HU5eOYoRyAz9]{Akitt of Llack}</td>\n<td style=\"width:35.8771%;height:17px\">@UUID[JournalEntry.dWfSK1y3PVHYRY3v.JournalEntryPage.mePNMG6eXGQfNl9l]{Akitt of Llack}</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:16.2003%;height:17px\">Lynd of Risene</td>\n<td style=\"width:47.063%;height:17px\">@UUID[Actor.4WCvAqYsmvMCrbad]{Lynd of Risene}</td>\n<td style=\"width:35.8771%;height:17px\">@UUID[JournalEntry.dWfSK1y3PVHYRY3v.JournalEntryPage.PENnnrm6jm5f7S6h]{Lynd of Risene}</td>\n</tr>\n<tr>\n<td style=\"width:16.2003%\">Naviel of Enthia</td>\n<td style=\"width:47.063%\">@UUID[Actor.g7SjH2sQ0VLiG8az]{Naviel of Enthia}</td>\n<td style=\"width:35.8771%\">@UUID[JournalEntry.dWfSK1y3PVHYRY3v.JournalEntryPage.ulQyRk4ecDfwtLC5]{Naviel of Enthia}</td>\n</tr>\n<tr>\n<td style=\"width:16.2003%\">Kenric</td>\n<td style=\"width:47.063%\">@UUID[Actor.vWk5xjh3SXvhAoRh]{Kenric}</td>\n<td style=\"width:35.8771%\">@UUID[JournalEntry.dWfSK1y3PVHYRY3v.JournalEntryPage.iZeDO2hz3fOYdcQ4]{Kenric}</td>\n</tr>\n<tr>\n<td style=\"width:16.2003%\">Hedin</td>\n<td style=\"width:47.063%\">@UUID[Actor.f9uzZ7rXABnvFRCd]{Hedin}</td>\n<td style=\"width:35.8771%\">@UUID[JournalEntry.dWfSK1y3PVHYRY3v.JournalEntryPage.buEHKcJHqNgN3sy3]{Hedin}</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "KNjIFS2YesGweSiq",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HD0hlurPhyfLRJQX.KNjIFS2YesGweSiq"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659200859157,
+    "modifiedTime": 1659200859157,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "HD0hlurPhyfLRJQX",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!HD0hlurPhyfLRJQX"
+}
